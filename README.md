@@ -24,11 +24,11 @@ Este projeto me permitiu praticar e aprofundar meu conhecimento em:
 
 ---
 
-<!--  ### 🚀 Como Visualizar o Projeto
+ ### 🚀 Como Visualizar o Projeto
 
 1.  Clone este repositório para sua máquina local.
     ```bash
-    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
+    git clone https://github.com/lucasmm77/Youtube-UI-Clone
     ```
 2.  Abra o arquivo `index.html` em seu navegador de preferência.
 
@@ -36,14 +36,16 @@ Este projeto me permitiu praticar e aprofundar meu conhecimento em:
 
 ### 🖼️ Preview do Projeto
 
-![Preview do projeto em Desktop](https://i.imgur.com/link-da-imagem-desktop.png)
-_Visão da página em um desktop._
 
-![Preview do projeto em Mobile](https://i.imgur.com/link-da-imagem-mobile.png)
-_Visão da página em um dispositivo móvel._
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/210a2db6-fc78-4895-a46e-0afe9daf284e" />
+
+</br></br>
+
+<img width="374" height="573" alt="image" src="https://github.com/user-attachments/assets/367e209b-601a-4863-bb99-3fb8d2bc3cb5" />
+
 
 ---
--->
+
 ### 👨‍💻 Autor
 
 [Lucas Maciel]
