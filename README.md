@@ -32,6 +32,8 @@ Este projeto me permitiu praticar e aprofundar meu conhecimento em:
     ```
 2.  Abra o arquivo `index.html` em seu navegador de preferência.
 
+   Ou clique aqui: <a href="https://lucasmm77.github.io/Youtube-UI-Clone/">https://lucasmm77.github.io/Youtube-UI-Clone/</a>
+
 ---
 
 ### 🖼️ Preview do Projeto
